@@ -11,6 +11,7 @@
  Geburtsdatum |	`14.06.1943`
 ----
 ## Beruflicher Werdegang
+
 * FH Furtwangen
 ----
 ## Hobbys
