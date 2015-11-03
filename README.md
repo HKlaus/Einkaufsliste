@@ -5,7 +5,7 @@
 
 :see_no_evil: :see_no_evil: :see_no_evil: :see_no_evil: :see_no_evil: :see_no_evil: :see_no_evil: :see_no_evil: 
 
-<div style="float: right;"><img src="http://www.deine-wandtattoos.de/imageupload/12138002/12138002.png" height="200px" /></div>
+<img style="float: right;" src="http://www.deine-wandtattoos.de/imageupload/12138002/12138002.png" height="200px" />
          |   Persöhnliche Daten | 
 |:---------|----------:|
  Name    | `Hden Klaus`
