@@ -3,11 +3,12 @@
 # Lebenslauf
 ----
 
-<img src="http://www.deine-wandtattoos.de/imageupload/12138002/12138002.png" alt="Drawing" style="width: 200px;"/>
+:see_no_evil:
+<img src="http://www.deine-wandtattoos.de/imageupload/12138002/12138002.png" alt="Drawing" style="width: 100px;"/>
 
          |   Persöhnliche Daten | 
 |:---------|----------:|
- Name    | `Hden Klaus :see_no_evil: `
+ Name    | `Hden Klaus`
  Adresse | `Bierstraße 15`
  Telefon |	`0800 666 666`
  Geburtsdatum |	`14.06.1943`
