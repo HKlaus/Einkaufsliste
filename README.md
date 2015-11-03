@@ -1,6 +1,6 @@
 
 
-# Lebenslauf
+# Lebenslauf <img src="http://www.deine-wandtattoos.de/imageupload/12138002/12138002.png" height="200px" />
 ----
 
 :see_no_evil: :see_no_evil: :see_no_evil: :see_no_evil: :see_no_evil: :see_no_evil: :see_no_evil: :see_no_evil: 
@@ -27,7 +27,9 @@
 <td align="left">Geburtsdatum</td>
 <td align="right"><code>14.06.1943</code></td>
 </tr>
-</tbody></table><img src="http://www.deine-wandtattoos.de/imageupload/12138002/12138002.png" height="200px" />
+</tbody></table>
+
+
 ----
 ## Beruflicher Werdegang
 
