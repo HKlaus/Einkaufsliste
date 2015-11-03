@@ -1,0 +1,3 @@
+3	Apfel
+1	Scheibe Brot
+5	Wurst
