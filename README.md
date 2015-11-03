@@ -3,7 +3,9 @@
 # Lebenslauf
 ----
 
-         |   Persöhnliche Daten | ![img]
+![img]
+
+         |   Persöhnliche Daten | 
 |:---------|----------:|
  Name    | `Hden Klaus`
  Adresse | `Bierstraße 15`
