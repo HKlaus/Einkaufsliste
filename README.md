@@ -1,6 +1,6 @@
 
 
-# Lebenslauf <img style="float: right !important;" src="http://www.deine-wandtattoos.de/imageupload/12138002/12138002.png" height="200px" />
+# Lebenslauf 
 ----
 <table><thead>
 <tr>
