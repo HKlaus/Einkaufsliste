@@ -27,10 +27,7 @@
 <td align="left">Geburtsdatum</td>
 <td align="right"><code>14.06.1943</code></td>
 </tr>
-</tbody></table>
-
-<span style="float: right !important;" > <img src="http://www.deine-wandtattoos.de/imageupload/12138002/12138002.png" height="200px" /></span>
-
+</tbody></table><img src="http://www.deine-wandtattoos.de/imageupload/12138002/12138002.png" height="200px" />
 ----
 ## Beruflicher Werdegang
 
