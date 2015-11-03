@@ -2,17 +2,17 @@
 
 # Lebenslauf
 ----
-##Persöhnliche Daten
-*Name
-*Adresse
+## Persöhnliche Daten
+* Name
+* Adresse
 
-*Telefon
-*Geburtsdatum
+* Telefon
+* Geburtsdatum
 
-##Beruflicher Werdegang
-*FH Furtwangen
+## Beruflicher Werdegang
+* FH Furtwangen
 
-##Hobbys
+## Hobbys
 
 
 
