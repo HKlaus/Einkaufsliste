@@ -3,7 +3,7 @@
 # Lebenslauf
 ----
 
-         |   Persöhnliche Daten 
+         |   Persöhnliche Daten | [img]
 |:---------|----------:|
  Name    | `Hden Klaus`
  Adresse | `Bierstraße 15`
@@ -13,11 +13,13 @@
 ----
 ## Beruflicher Werdegang
 
-* FH Furtwangen
+* Kindergarten
+* Grundschule
+* Biertrinkweltmeister 
 
 ----
 ## Hobbys
 * Lernen
 * Alkohol trinken
 
-
+[img]: http://www.deine-wandtattoos.de/imageupload/12138002/12138002.png "Bild von Hden"
