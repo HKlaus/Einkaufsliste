@@ -3,9 +3,8 @@
 # Lebenslauf
 ----
 ## Persöhnliche Daten 
-
- Name    | `Hden Klaus`
 ---------|----------
+ Name    | `Hden Klaus`
  Adresse | `Bierstraße 15`
 
 * Telefon
