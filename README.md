@@ -1,10 +1,7 @@
 
 
-# Lebenslauf <img src="http://www.deine-wandtattoos.de/imageupload/12138002/12138002.png" height="200px" />
+# Lebenslauf <img style="display: inline;" src="http://www.deine-wandtattoos.de/imageupload/12138002/12138002.png" height="200px" />
 ----
-
-:see_no_evil: :see_no_evil: :see_no_evil: :see_no_evil: :see_no_evil: :see_no_evil: :see_no_evil: :see_no_evil: 
-
 <table><thead>
 <tr>
 <th align="left"></th>
@@ -41,3 +38,8 @@
 ## Hobbys
 * Lernen
 * Alkohol trinken
+
+
+
+
+:see_no_evil:
