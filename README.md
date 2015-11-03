@@ -5,12 +5,29 @@
 
 :see_no_evil: :see_no_evil: :see_no_evil: :see_no_evil: :see_no_evil: :see_no_evil: :see_no_evil: :see_no_evil: 
 
-         |   Persöhnliche Daten | 
-|:---------|----------:|
- Name    | `Hden Klaus`
- Adresse | `Bierstraße 15`
- Telefon |	`0800 666 666`
- Geburtsdatum |	`14.06.1943`
+<table><thead>
+<tr>
+<th align="left"></th>
+<th align="right">Persöhnliche Daten</th>
+</tr>
+</thead><tbody>
+<tr>
+<td align="left">Name</td>
+<td align="right"><code>Hden Klaus</code></td>
+</tr>
+<tr>
+<td align="left">Adresse</td>
+<td align="right"><code>Bierstraße 15</code></td>
+</tr>
+<tr>
+<td align="left">Telefon</td>
+<td align="right"><code>0800 666 666</code></td>
+</tr>
+<tr>
+<td align="left">Geburtsdatum</td>
+<td align="right"><code>14.06.1943</code></td>
+</tr>
+</tbody></table>
 
 <span style="float: right;" > <img src="http://www.deine-wandtattoos.de/imageupload/12138002/12138002.png" height="200px" /></span>
 
