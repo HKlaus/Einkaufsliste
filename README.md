@@ -29,7 +29,7 @@
 </tr>
 </tbody></table>
 
-<span style="float: right;" > <img src="http://www.deine-wandtattoos.de/imageupload/12138002/12138002.png" height="200px" /></span>
+<span style="float: right !important;" > <img src="http://www.deine-wandtattoos.de/imageupload/12138002/12138002.png" height="200px" /></span>
 
 ----
 ## Beruflicher Werdegang
