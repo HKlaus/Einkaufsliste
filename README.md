@@ -3,8 +3,8 @@
 # Lebenslauf
 ----
 
-:see_no_evil:
-<img src="http://www.deine-wandtattoos.de/imageupload/12138002/12138002.png" alt="Drawing" style="width: 100px;"/>
+:see_no_evil: :see_no_evil: :see_no_evil: :see_no_evil: :see_no_evil: :see_no_evil: :see_no_evil: :see_no_evil: 
+<img src="http://www.deine-wandtattoos.de/imageupload/12138002/12138002.png" height="200px" />
 
          |   Persöhnliche Daten | 
 |:---------|----------:|
